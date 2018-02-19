@@ -3,6 +3,7 @@
 :root 
 {
   box-sizing: border-box;
+  --text-color: red;
 }
 
 *, *::after, *::before 
