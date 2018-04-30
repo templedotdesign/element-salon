@@ -1,0 +1,20 @@
+.menu {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  font-size: 2rem;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.purple {
+  color: var(--purple);
+}
+
+.white {
+  color: white;
+}
+
+.menu:hover {
+  color: var(--silver);
+}

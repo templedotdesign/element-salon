@@ -1,0 +1,35 @@
+.shoppingCart {
+  padding-top: 30px;
+}
+.shoppingCart button {
+  width: 20%;
+  margin: 15px auto;
+  padding: 15px;
+  border-radius: 5px;
+  font-size: 1.3rem;
+  color: var(--purple);
+  border-color: var(--purple);
+}
+
+.shoppingCart button:hover {
+  background-color: var(--purple);
+  color: white;
+}
+
+.orderForm {
+  border: 1px solid var(--purple);
+  border-radius: 5px;
+  width: 50%;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.heading {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  color: var(--purple);
+  font-size: 2rem;
+  border: 1px solid var(--purple);
+  border-width: 8px 0 8px 0;
+}

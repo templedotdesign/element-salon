@@ -1,0 +1,27 @@
+.contact {
+  height: 100vh;
+  background: url('../../assets/phone.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons {
+  font-size: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.icons a {
+  color: var(--purple);
+  padding: 20px;
+  cursor: pointer;
+}
+
+.icons a:hover {
+  color: var(--silver);
+}

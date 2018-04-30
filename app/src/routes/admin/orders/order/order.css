@@ -1,0 +1,11 @@
+.order {
+  width: 80%;
+  margin: 15px auto;
+  border: 1px solid var(--purple);
+  padding: 25px;
+  color: var(--purple);
+}
+
+.order h3 {
+  padding: 10px;
+}

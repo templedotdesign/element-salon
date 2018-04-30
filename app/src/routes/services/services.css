@@ -1,0 +1,14 @@
+.services {
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 60px;
+}
+
+.heading {
+  margin: 0 auto;
+  text-align: center;
+  color: var(--purple);
+  font-size: 2rem;
+  border: 1px solid var(--purple);
+  border-width: 8px 0 8px 0;
+}

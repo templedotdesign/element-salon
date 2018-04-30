@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700');
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
 
 :root 
 {
   box-sizing: border-box;
-  --text-color: red;
+  --purple: #7734cf;
+  --silver: #c0c0c0;
 }
 
 *, *::after, *::before 
@@ -14,6 +16,16 @@
 }
 
 body {
-  
   font-family: 'Playfair Display', sans-serif;
 }
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+/* @media(max-width: 750px) {
+  a {
+    overflow: visible;
+  }
+} */

@@ -1,0 +1,9 @@
+.serviceItem {
+  padding: 20px;
+  font-size: 1.4rem;
+  color: var(--purple);
+}
+
+.serviceItem span {
+  font-size: 1rem;
+}
